@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * text=auto#include <stdio.h>
 #include <stdlib.h>
 
@@ -13,6 +14,9 @@ int main()
 >>>>>>> parent of b5499d1... 第二次修改
 	exit(0);
 }
+=======
+* text=auto
+>>>>>>> parent of 6ba8e28... 第一次修改
 =======
 * text=auto
 >>>>>>> parent of 6ba8e28... 第一次修改
