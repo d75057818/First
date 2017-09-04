@@ -1,9 +1,9 @@
 # Auto detect text files and perform LF normalization
-* text=auto#include <stdio.h>
+* text=auto
+#include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-	int num;
 	exit(0);
 }
